@@ -32,4 +32,4 @@ VALUES (7,'Smit','Darji','IT','2002-11-12','M',50000,3)
 -- Chack employeeLogs table 
 
 SELECT * 
-FROM Sales.EmpployeeLogs
+FROM Sales.EmpployeeLogs 
